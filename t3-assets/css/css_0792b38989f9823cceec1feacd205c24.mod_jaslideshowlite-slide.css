@@ -1,0 +1,1 @@
+  .slide .ja-ss-item.animate{-webkit-transition:left 1s;-moz-transition:left 1s;-ms-transition:left 1s;-o-transition:left 1s;transition:left 1s;}.slide .ja-ss-item.curr{left:0;}.slide .ja-ss-item.next{left:100%;}.slide .ja-ss-item.prev{left:-100%;}
